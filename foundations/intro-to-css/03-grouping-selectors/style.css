@@ -1,0 +1,23 @@
+.btn-container {
+  background-color: black;
+  display: inline-block;
+  padding: 8px;
+}
+.btn {
+  padding: 12px 24px;
+  font-family: helvetica, "Times New Roman", Times, serif;
+  font-size: 28px;
+  cursor: pointer;
+}
+.button-one {
+  background-color: black;
+  color: white;
+  border: 1px white solid;
+}
+.button-two {
+  background-color: yellow;
+}
+
+/* .button-one:hover {
+  color: rgba(255, 0, 0, 0);
+} */

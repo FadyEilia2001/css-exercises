@@ -1,0 +1,17 @@
+.item-one {
+  background-color: hsla(0, 69%, 78%, 0.781);
+  font-family: verdana, "dejavu sans", sans-serif;
+  font-size: 18;
+}
+#one-id {
+  color: rgb(30, 30, 216);
+  font-size: 36px;
+}
+.cooler {
+  font-size: 24px;
+}
+#another-id {
+  background-color: rgba(106, 228, 106, 0.677);
+  font-size: 24px;
+  font-weight: 700;
+}
