@@ -62,3 +62,7 @@ body > .para {
   color: black;
   font-weight: 700;
 }
+
+#cancel-button {
+  background-color: red;
+}
